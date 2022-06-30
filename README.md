@@ -2,7 +2,7 @@
 GUI with Python
 
 Libraries:
-  PySimpleGUI
+  PySimpleGUI,
   Matplotlib
   
 Graph App
